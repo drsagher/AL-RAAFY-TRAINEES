@@ -1,0 +1,30 @@
+.container{
+    height: 400px;
+    background-color: aquamarine;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+}
+#left-side{
+    background-color: blue;
+    width: 20%;
+}
+#middle-side{
+    background-color: brown;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#right-side{
+    background-color: cadetblue;
+    width: 20%;
+
+}
+#top{
+    background-color: chartreuse;
+}
+#nav-bar{
+    background-color: darkorange;
+}
